@@ -2,9 +2,9 @@
 
 # Sobre mim / About Me:
 
+- 🖱️Trainee - Occam Engenharia
 - 💻 Estudante de Engenharia da Computação - UTFPR-PB / Computer Engineer Student - UTFPR-PB
 - 💡Diretor de Marketing - Enactus UTFPR-PB / Chief Marketing Officer - Enactus UTFPR-PB
-- 🖱️Trainee - Occam Engenharia
 - 🎬 Designer e Editor de vídeos - Freelancer / Graphic Designer and Video Editor - Freelancer
 - 🔎 Procurando por vagas como Desenvolvedor! / Looking for an internship as a developer!
 <br>
