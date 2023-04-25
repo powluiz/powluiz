@@ -3,9 +3,8 @@
 # About Me:
 
 - 👨‍💻 Front-End Developer - Núcleo de Excelência em Tecnologias Sociais (NEES)
-- 🖱️ Trainee - Occam Engenharia
+- 💡 Chief Marketing Officer - Enactus UTFPR-PB | OCCAM Engenharia
 - 💻 Computer Engineering Student - Universidade Tecnológica Federal do Paraná
-- 💡 Chief Marketing Officer - Enactus UTFPR-PB
 - 🎬 Graphic Designer and Video Editor - Freelancer
   <br>
 
