@@ -1,5 +1,3 @@
-![Hello](https://user-images.githubusercontent.com/69766396/189502339-7bcee159-fadc-466a-8df2-1f80bff8dbd4.gif)
-
 # About Me:
 
 - 👨‍💻 Front-End Developer - Núcleo de Excelência em Tecnologias Sociais (NEES)
