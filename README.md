@@ -1,6 +1,6 @@
 # About Me:
 
-- 👨‍💻 Front-End Developer - Núcleo de Excelência em Tecnologias Sociais (NEES)
+- 👨‍💻 Front-End Developer - NEES - Núcleo de Excelência em Tecnologias Sociais
 - 💡 Chief Marketing Officer - OCCAM Engenharia
 - 💻 Computer Engineering Student - Universidade Tecnológica Federal do Paraná
 - 🎬 Graphic Designer and Video Editor - Freelancer
@@ -9,6 +9,7 @@
 # 🖱️ Tools and technologies
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,8 +46,9 @@
 </div>
 <br><br>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true) -->
+
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true)
 Referência para badges:
 https://github.com/Ileriayo/markdown-badges
- -->
+-->
