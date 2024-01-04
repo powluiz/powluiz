@@ -47,7 +47,7 @@
 </div>
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true&hide=jupyter%20notebook)
 
 <!--
 Referência para badges:
