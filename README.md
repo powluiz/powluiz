@@ -4,7 +4,17 @@
 - 💡 Chief Marketing Officer - OCCAM Engenharia
 - 💻 Computer Engineering Student - Universidade Tecnológica Federal do Paraná
 - 🎬 Graphic Designer and Video Editor - Freelancer
-  <br>
+  <br><br>
+
+# 📞 Contact
+
+<div style="display: inline-block">
+  <a href = "mailto:luiz.1303@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-ricardo-brumati-de-lima-5a5ba9148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/powluiz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<br><br>
 
 # 🖱️ Tools and technologies
 
@@ -36,15 +46,6 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-5545FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9969FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-<br><br>
-
-# 📞 Contact
-
-<div style="display: inline-block">
-  <a href = "mailto:luiz.1303@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-ricardo-brumati-de-lima-5a5ba9148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/powluiz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 <br><br>
 
 # 📊 Github Stats
