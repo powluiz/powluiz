@@ -51,9 +51,9 @@
 
 # 📊 Github Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=luiz1303&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=powluiz&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powluiz&layout=compact&include_all_commits=true&count_private=true&hide=jupyter%20notebook)
 
 <!--
 Referência para badges:
