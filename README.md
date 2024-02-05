@@ -1,18 +1,12 @@
-# About Me:
+<p align="center" style="margin-top: 3.5rem;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&height=24&lines=Luiz+Ricardo" alt="Typing SVG" /></a>
+</p>
 
-- 👨‍💻 Front-End Developer - NEES - Núcleo de Excelência em Tecnologias Sociais
-- 💡 Chief Marketing Officer - OCCAM Engenharia
-- 💻 Computer Engineering Student - Universidade Tecnológica Federal do Paraná
-- 🎬 Graphic Designer and Video Editor - Freelancer
-  <br><br>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&height=46&lines=Web+Developer;UX%2FUI+Designer;Video+Editor;Graphic+Designer" alt="Typing SVG" /></a>
+</p>
 
-# 📞 Contact
-
-<div style="display: inline-block">
-  <a href = "mailto:luiz.1303@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-ricardo-brumati-de-lima-5a5ba9148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/powluiz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<!-- <hr> -->
 
 <br><br>
 
@@ -37,7 +31,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OPENCV](https://img.shields.io/badge/Opencv-8b1df2?style=for-the-badge&logo=Opencv&logoColor=white)
-![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![BITBUCKET](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,15 +40,25 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-5545FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9969FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-<br><br>
+<br>
+
+# 📞 Contact
+
+<div style="display: inline-block">
+  <a href = "mailto:luiz.1303@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-ricardo-brumati-de-lima-5a5ba9148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/powluiz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
 
 # 📊 Github Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=powluiz&hide_border=true)
+<div style="display: flex;">
+  <a href="https://git.io/streak-stats"><img align=center src="https://streak-stats.demolab.com?user=powluiz&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="#"><img align=center height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powluiz&layout=compact&hide_border=true&hide=jupyter%20notebook&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000"/></a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powluiz&layout=compact&include_all_commits=true&count_private=true&hide=jupyter%20notebook)
-
-<!--
-Referência para badges:
-https://github.com/Ileriayo/markdown-badges
--->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+<!-- https://streak-stats.demolab.com/demo/ -->
