@@ -3,22 +3,27 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&height=46&lines=Web+Developer;UX%2FUI+Designer;Video+Editor;Graphic+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&height=46&lines=Frontend+Developer;UX%2FUI+Designer;" alt="Typing SVG" /></a>
 </p>
 
 <!-- <hr> -->
 
 <br><br>
 
+
+# ℹ️ About me
+
+<p>Frontend Developer specialized in the <strong>React</strong>, <strong>React Native</strong>, <strong>Next.js</strong> and <strong>Javascript/Typescript</strong> ecosystem. Focused on developing scalable solutions, I have expertise in optimizing web and mobile applications with an emphasis on performance and accessibility.</p>
+
 # ⚒️ Tech Stack
 
-<h3 align="left">I have knowledge in:</h3>
+<h3 align="left">Primary Tech Stack:</h3>
 
-[![Primary Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,nextjs,vite,tailwindcss,styledcomponents,figma,postman)](https://skillicons.dev)
+[![Primary Skills](https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,nextjs,vite,redux,tailwindcss,docker,figma,postman,bitbucket,gitlab)](https://skillicons.dev)
 
-<h3 align="left">I have also worked with:</h3>
+<h3 align="left">Secondary Tech Stack:</h3>
 
-[![Secondary Skills](https://skillicons.dev/icons?i=c,cpp,express,postgres,docker,prisma,aws,python,opencv)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=cpp,python,django,express,postgres,prisma,aws,opencv)](https://skillicons.dev)
 
 <br>
 
